@@ -1,164 +1,132 @@
 {
-  "computers": [
+  "shoes": [
     {
       "id": "1",
-      "nama": "INTEL CORE I7 7700K TRAY LGA 1151",
-      "harga": "2150000",
-      "gambar": "https://down-id.img.susercontent.com/file/ee901506f2a7e9a7fa2de3700bb47778",
-      "tipe": "Processor",
-      "deskripsi": "PROCESSOR INTEL CORE I7 7700K TRAY LGA 1151, Garansi 1 tahun"
+      "nama": "Sepatu Onitsuka Tiger California 78",
+      "harga": "1800000",
+      "gambar": "https://down-id.img.susercontent.com/file/sg-11134201-7qvem-li88a9xvboeh58",
+      "tipe": "Sneakers",
+      "deskripsi": "Take With Real Picture Shoes 100%,Brand : Onitsuka Tiger, 100% Original, Free Paperbag Onitsuka, Free Kaos Kaki Import"
     },
     {
       "id": "2",
-      "nama": "PROCESSOR AMD FX 8300",
-      "harga": "550000",
-      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r98o-lmisg9pukgp8f7",
-      "tipe": "Processor",
+      "nama": "Nike Air Jordan 1 Low White Wolf",
+      "harga": "1449000",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7qul3-li17kv29zace86",
+      "tipe": "Sneakers",
       "deskripsi": "Barang kondisi Normal Jaya,tidak Panas overheat ,garansi 1 bulan setelah terima barang "
     },
     {
       "id": "3",
-      "nama": "INTEL CORE I3 12100F TRAY LGA 1700",
-      "harga": "1375000",
-      "gambar": "https://down-id.img.susercontent.com/file/sg-11134201-23010-3auei7mg4rlv4b",
-      "tipe": "Processor",
-      "deskripsi": "PROCESSOR INTEL CORE I3 12100F TRAY LGA 1700, Garansi 1 thn"
+      "nama": "Sepatu Sneakers Mitterns Storm Low Ice Blue",
+      "harga": "188000",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r98o-lkr2nmryxzw492",
+      "tipe": "Sneakers",
+      "deskripsi": "Semua barang di jual dengan kualitas baik sebelum order mohon tanyakan dulu ketersedian barangnya dan ukuran."
     },
     {
       "id": "4",
-      "nama": "INTEL CORE I7 8700",
-      "harga": "390000",
-      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r98v-ln13o3qg9zeedd",
-      "tipe": "Processor",
-      "deskripsi": "Intel Core i7 8700 Coffee Lake, Frekuensi Dasar Prosesor: 3.20 GHz, Frekuensi Turbo Maks : 4.60 GHz"
+      "nama": "Adidas Centennial 85 Low White Green",
+      "harga": "500000",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-23030-9n5n9zmuhxov91",
+      "tipe": "Sneakers",
+      "deskripsi": "Made In Vietnam Kualitas : 1: 1 Original KONDISI : BARU - Brand New In Box With Tag Box (BNIBWT)"
     },
     {
       "id": "5",
-      "nama": "AMD A8-7680 3.5Ghz",
-      "harga": "610000",
-      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r98o-lma495i5dqd0c2",
-      "tipe": "Processor",
-      "deskripsi": "PROCESSOR AMD A SERIES A8 7680 BOX SOCKET FM2+ FREQUENCY 3500MHZ"
+      "nama": "Vans Style 36 Marshmellow Dress Blue",
+      "harga": "649000",
+      "gambar": "https://down-id.img.susercontent.com/file/sg-11134201-22090-oz202bxcvthvf7",
+      "tipe": "Sneakers",
+      "deskripsi": "Free Gift: Paperbag Vans Keychain & Sticker Vans Socks Vans (Bonus limited)"
     },
     {
       "id": "6",
-      "nama": "AMD Ryzen 5 4600G",
-      "harga": "1577000",
-      "gambar": "https://down-id.img.susercontent.com/file/sg-11134201-22110-3gbygjo9oejv41",
-      "tipe": "Processor",
-      "deskripsi": "Processor AMD Ryzen 5 4600G With Radeon Graphics 6Core 12Thread"
+      "nama": "Vans Old Skool Style 36 X Reigning Champ",
+      "harga": "990000",
+      "gambar": "https://down-id.img.susercontent.com/file/sg-11134201-22120-45doly0obokv26",
+      "tipe": "Sneakers",
+      "deskripsi": "Condition : 100% ORIGINAL BNIB Bahan Suiede Made in China"
     },
     {
       "id": "7",
-      "nama": "AMD Athlon II X2 250",
-      "harga": "250000",
-      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r98p-lme7kht0y8i4bb",
-      "tipe": "Processor",
-      "deskripsi": "AMD Athlon II X2 250 adalah prosesor dual core dengan kecepatan clock frequensi 3.00GHz memiliki cache memori sebesar 1MB untuk masing-masing inti prosesornya."
+      "nama": "Vans Old Skool Electric",
+      "harga": "374000",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134211-7r98s-ln3zobdlccm517",
+      "tipe": "Sneakers",
+      "deskripsi": "Real Picture. Original 100 % and Money Back Guarantee VansOld Skool Electric 100% Original"
     },
     {
       "id": "8",
-      "nama": "AMD Athlon 3000G",
-      "harga": "935000",
-      "gambar": "https://down-id.img.susercontent.com/file/4438dbf026daff319adfa7280a16c0b9",
-      "tipe": "Processor",
-      "deskripsi": "AMD Athlon 3000G With Radeon Vega 3, Garansi Resmi 3 Tahun"
+      "nama": "VANS PRO OLDSKOOL NAVY",
+      "harga": "600000",
+      "gambar": "https://down-id.img.susercontent.com/file/sg-11134201-22100-kwc6pspis4iv96",
+      "tipe": "Sneakers",
+      "deskripsi": "VANS PRO OLDSKOOL BLACK/WHITE 100% ORIGINAL BNIB GLOBAL MARKET"
     },
     {
       "id": "9",
       "nama": "AMD Ryzen 5 1400 4-Core 8-Threads 3.2 GHz - 3.4 GHz",
       "harga": "599000",
-      "gambar": "https://down-id.img.susercontent.com/file/32a92743140505e5c0a151552794bd9a",
-      "tipe": "Processor",
-      "deskripsi": "AMD RYZEN 5 1400 4-Core 3.2 GHz (3.4 GHz Turbo) Socket AM4 65W Desktop Processor"
+      "gambar": "https://down-id.img.susercontent.com/file/c5c42eb2221eaefb41eb63ec4a26578a",
+      "tipe": "Sneakers",
+      "deskripsi": "AMD RYZEN 5 1400 4-Core 3.2 GHz (3.4 GHz Turbo) Socket AM4 65W Desktop Sneakers"
     },
     {
       "id": "10",
-      "nama": "Amd FX Series FX 8120",
-      "harga": "300000",
+      "nama": "Vans Style 36 Retro Sport Gibraltar Sea",
+      "harga": "429000",
       "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r990-lm8o1vws6mfz47",
-      "tipe": "Processor",
-      "deskripsi": "Processor AMD FX Series - FX 6100 / FX 8120 CPU Socket AMD AM3+"
+      "tipe": "Sneakers",
+      "deskripsi": "Vans Style 36 Retro Sport Gibraltar Sea Cameo Blue Brand New In Box With Tag ( BNIB )"
     },
     {
       "id": "11",
-      "nama": "ASROCK H610M-HVS/M.2 DDR4",
-      "harga": "1167500",
-      "gambar": "https://down-id.img.susercontent.com/file/sg-11134201-22090-smmc2e4miwhv53",
-      "tipe": "Motherboard",
-      "deskripsi": "Micro ATX Form Factor: 8.66-in x 7.6-in, 22.0 cm x 19.3, GARANSI RESMI 3 TAHUN"
+      "nama": "Sepatu XternalStepSure",
+      "harga": "480000",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r992-ll6a28o8sy184f",
+      "tipe": "Casual",
+      "deskripsi": "Untuk ukuran yang kami sediakan ada  ( panjang insole / panjang kaki) Contoh : normal size 40 (Ordernya Size 40)"
     },
     {
       "id": "12",
-      "nama": "Motherboard Gaming B250 REVOLVER VARRO SUPPORT NVME",
-      "harga": "640000",
-      "gambar": "https://down-id.img.susercontent.com/file/c5cf6905283c1130661050efdbf4f416",
-      "tipe": "Motherboard",
-      "deskripsi": "GARANSI 2 TAHUN, * SUPPORT SSD NVME *, - Chipset B250 - Socket 1151"
+      "nama": "Adidas Broomfield Grey Navy",
+      "harga": "800000",
+      "gambar": "https://down-id.img.susercontent.com/file/sg-11134201-7qvei-lfic0lvibyml34",
+      "tipe": "Casual",
+      "deskripsi": "Product DetailsModel : Broomfield Colorway : Grey/Navy/Gold Gender : Unisex (men's & womens)"
     },
     {
       "id": "13",
-      "nama": "Asrock B550M PRO SE AMD AM4 PRO565 DDR4",
-      "harga": "1465000",
-      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r98s-lliqejo4zq6k12",
-      "tipe": "Motherboard",
-      "deskripsi": "Supports AMD AM4 Socket Ryzen™ 3000, 3000 G-Series 4000 G-Series, 5000 and 5000 G-Series Desktop Processors, Chipset : AMD PRO565"
+      "nama": "Adidas Samba Vegan White Gum",
+      "harga": "1349400",
+      "gambar": "https://down-id.img.susercontent.com/file/sg-11134201-7qvd5-lfib7lo2eh5u32",
+      "tipe": "Casual",
+      "deskripsi": "Product Details Model : Samba Vegan Colorway : Could White/Core Black Gender : Unisex (men's & womens) Original Material"
     },
     {
       "id": "14",
-      "nama": "Digital Alliance H81 NVME Intel Socket LGA 1150",
-      "harga": "455000",
-      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7qukx-lfpa2tbrgdw2d6",
-      "tipe": "Motherboard",
-      "deskripsi": "Processor : Support Intel® Core™ 4th/5th Gen in the LGA 1150 package Chipset : Intel® H81 Express Chipset Memory : • 2 x DDR3 DIMM socket supporting up to 16 GB of system memory"
+      "nama": "Sepatu Slop Pria Adidas Suarez",
+      "harga": "45000",
+      "gambar": "https://down-id.img.susercontent.com/file/4556e39b8cb2b34e8dce61ca5fa064fe",
+      "tipe": "Casual",
+      "deskripsi": "Merk : Adidas Ukuran : 39 40 41 42 43 44 Material : Suede"
     },
     {
       "id": "15",
-      "nama": "Gigabyte H310 Onboard Support Gen 8 dan 9 LGA1151 Garansi",
-      "harga": "645000",
-      "gambar": "https://down-id.img.susercontent.com/file/f0c2cbee154c70c63d77bfb35f4d048d",
-      "tipe": "Motherboard",
-      "deskripsi": "Mainboard H310M Lga 1151, Gigabyte H310 + Panel, Memory Ddr4 ,Support Gen 8 dan 9"
+      "nama": "WAMA - Gaxin Black",
+      "harga": "150000",
+      "gambar": "https://down-id.img.susercontent.com/file/924e90bb44d20b085431e9afd8e3fc21",
+      "tipe": "Casual",
+      "deskripsi": "GAXIN by WAMA terbuat dari suede sintetis sangat ringan dipakai sol karet dan warna yang ga mainstream membuat kamu makin percaya diri dalam meningkatkan potensimu, banyaknya pilihan warna dan harga yang terjangkau sangat cocok untuk keseharian kamu"
     },
     {
       "id": "16",
-      "nama": "ASUS GeForce GTX 1650 DUAL OC V2 4GB GDDR6 VGA GTX1650 P 4G DDR6",
-      "harga": "2398000",
-      "gambar": "https://down-id.img.susercontent.com/file/id-11134201-23020-nh3kyldqdonvd4",
-      "tipe": "VGA",
-      "deskripsi": "Graphic Engine NVIDIA® GeForce GTX 1650 Bus Standard PCI Express 3.0 OpenGL®4.6"
-    },
-    {
-      "id": "17",
-      "nama": "VGA PCIe NVIDIA Geforce GTX 750 Ti 4GB 128Bit GDDR5",
-      "harga": "1050000",
-      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r98w-llq21vt7qgmj30",
-      "tipe": "VGA",
-      "deskripsi": "GRAPHICS ENGINE NVIDIA Geforce GTX 750 Ti, BUS STANDART PCI Express 3.0, VIDEO MEMORY GDDR5 4096MB"
-    },
-    {
-      "id": "18",
-      "nama": "VGA VURRION GTX 750TI 4GB DDR5 128Bit GAMING",
-      "harga": "1040000",
-      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r98u-llvp8rhnp8s4bf",
-      "tipe": "VGA",
-      "deskripsi": "GPU GM107, SHADERS 640SP, GPU CLOCK 1020 MHz, MEMORY CLOCK 5400 MHz"
-    },
-    {
-      "id": "19",
-      "nama": "VGA NVIDIA GTX 1660 SUPER",
-      "harga": "1800000",
-      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r98w-llq21vt7qgmj30",
-      "tipe": "VGA",
-      "deskripsi": "GALAX GTX 1660 6 GB DDR5, KELENGKAPAN : UNIT VGA,DUS,BUKU"
-    },
-    {
-      "id": "20",
-      "nama": "VGA ASUS GTX 950 2GB 128BIT GDDR5",
-      "harga": "750000",
-      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7r98p-lmzvil3ynqhjed",
-      "tipe": "VGA",
-      "deskripsi": "GEFORCE GTX 950 2GB 128BIT GDDR5, PORT OUTPUT : HDMI , DVI & DISPLY PORT"
+      "nama": "WAMA - Noleds High Black White",
+      "harga": "220150",
+      "gambar": "https://down-id.img.susercontent.com/file/ff329c3107fa760b789b29c35d90497e",
+      "tipe": "Casual",
+      "deskripsi": "Wama Noleds dibuat di Indonesia dengan sistem vulcanized dan salah satu top brand Indonesia Vulcanized atau vulkanisasi adalah metode dimana sol luar sepatu diciptakan ketika karetnya masih lembut dan ditempel melingkar mengikuti bentuk sepatu"
     }
   ]
 }
